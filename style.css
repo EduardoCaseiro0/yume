@@ -2,7 +2,7 @@ body {
     background:#CCCCCC
 }
 
-h1{
+ h1{
       text-align: center;
 }
 
@@ -15,4 +15,4 @@ h1{
 }
 
  em strong {
-    
+         color: #ff0000;
