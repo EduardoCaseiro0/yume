@@ -2,8 +2,12 @@ body {
     background:#CCCCCC
 }
 
- h1{
-      text-align: center;
+#banner {
+   width: 100;
+
+
+h1 {
+   text-align: center;
 }
 
  p {
